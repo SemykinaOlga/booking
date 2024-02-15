@@ -4,6 +4,7 @@
 
 https://restful-booker.herokuapp.com/apidoc/
 
+спрашиваем, какие есть две проблемы в программировании? )
 создаем функцию create booking
 
 создаем переменную
@@ -18,6 +19,8 @@ https://restful-booker.herokuapp.com/apidoc/
 
 
 создаем тест без assert
+
+вопрос, что проверяет наш тест?
 
 создаем тест c asserT 
  assert actual_status_code == expected_status_code, \
