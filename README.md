@@ -4,7 +4,7 @@
 
 https://restful-booker.herokuapp.com/apidoc/
 
-спрашиваем, какие есть две проблемы в программировании? )
+
 создаем функцию create booking
 
 создаем переменную
